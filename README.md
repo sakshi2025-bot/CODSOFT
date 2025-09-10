@@ -4,11 +4,11 @@ This repository contains all my tasks for the **CODSFT Internship**.
 
 ## Task List
 
--   **Task 1 - Chatbot**
+-   **Task 1 - [Chatbot](/Task1)**
     A simple chatbot that interacts with users based on predefined responses.
 
--   **Task 2 - Tic-Tac-Toe AI**
-    An AI that plays the classic Tic-Tac-Toe game against a user. It is designed to be unbeatable by using the **Minimax algorithm**.
+-   **Task 2 - [Tic-Tac-Toe AI](/Task2)**
+    An AI that plays the classic Tic-Tac-Toe game against a user.
 
 -   **Task 3** - (Will be added here)
 
