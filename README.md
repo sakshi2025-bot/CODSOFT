@@ -7,9 +7,7 @@ This repository contains all my tasks for the **CODSOFT Internship**.
 - [Task 1 – Chatbot](./Task1)  
   A simple chatbot that interacts with users based on predefined responses.
 
-- [Task 2 – Tic-Tac-Toe AI](./Task2/tictactoe_ai.py)  
-  An AI that plays the classic Tic-Tac-Toe game against a user.
-
+- Task 2 - (Will be added here)
 - Task 3 – (Will be added here)  
 - Task 4 – (Will be added here)  
 - Task 5 – (Will be added here)  
